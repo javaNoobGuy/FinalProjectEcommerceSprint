@@ -1,0 +1,183 @@
+{
+
+
+    "produtos" : [
+
+
+        {
+
+            "rating": "2.548",
+            "titulo" : "Placa de Vídeo RTX 3060 Ti Gaming Gigabyte NVIDIA GeForce, 8GB GDDR6, RGB, DLSS, Ray Tracing - GV-N306TGAMING OC-8GD",
+            "nomeFacto": "Nvidia RTX 3060 Ti",
+            "imgMain": "imagens/assets/produtos/hardware/placa de video/3060.jpg",
+            "preco" : "3.999,99",
+            "desconto": "0.5",
+            "estoque" : "107",
+            "vendido" : "3,459"
+
+        },
+        
+        {
+
+            "rating": "2.548",
+            "titulo" : "Processador Intel Core i5-10400, 2.9GHz (4.3GHz Max Turbo), Cache 12MB, LGA 1200 - BX8070110400",
+            "nomeFacto": "Intel i5-10400",
+            "imgMain": "imagens/assets/produtos/hardware/processador/inteli5.jpg",
+            "preco" : "1.450,00",
+            "desconto": "0.25",
+            "estoque" : "107",
+            "vendido" : "2975"
+
+        },
+
+        
+        {
+
+            "rating": "2.548",
+            "titulo" : "Cooler Master Hyper H410R, AMD/Intel, RGB, Preto - RR-H410-20PC-R1",
+            "nomeFacto": "Cooler Master Hyper H410R",
+            "imgMain": "./imagens/assets/produtos/hardware/cooler/coolermaster.jpg",
+            "preco" : "247,05",
+            "desconto": "0.31",
+            "estoque" : "107",
+            "vendido" : "3505"
+
+        },
+
+        
+        {
+
+            "rating": "2.548",
+            "titulo" : "Memória XPG Lancer, RGB, 32GB (2x16GB) 6000MHz, DDR5, CL40 - AX5U6000C4016G-DCLARBK",
+            "nomeFacto": "XPG Lancer",
+            "imgMain": "./imagens/assets/produtos/hardware/ram/xpglancer.jpg",
+            "preco" : "2.294,11",
+            "desconto": "0.28",
+            "estoque" : "975",
+            "vendido" : "975"
+
+        },
+        
+        {
+
+            "rating": "2.548",
+            "titulo" : "Headset Gamer Redragon Zeus X, Chroma Mk.II, RGB, Surround 7.1, USB, Drivers 53MM, Preto/Vermelho - H510-RGB",
+            "nomeFacto": "Redragon Zeus X",
+            "imgMain": "./imagens/assets/produtos/perifericos/headset/reddragon zeus x.jpg",
+            "preco" : "555,54",
+            "desconto": "0.25",
+            "estoque" : "107",
+            "vendido" : "800"
+
+        },
+        
+        {
+
+            "rating": "2.548",
+            "titulo" : "Mouse Gamer Razer Deathadder V2 Mini, Chroma, Optical Switch, 6 Botões, 8500DPI + Mouse Grip Tape - RZ01-03340100-R3U1",
+            "nomeFacto": "Razer Deathadder V2 Mini",
+            "imgMain": "./imagens/assets/produtos/perifericos/mouses/deathadder.jpg",
+            "preco" : "235,28",
+            "desconto": "0.25",
+            "estoque" : "107",
+            "vendido" : "685"
+
+        },
+
+        {
+
+            "rating":"2,548",
+            "titulo":"Teclado Mecânico Gamer Razer BlackWidow V3 Tenkeyless, Chroma, Razer Switch Green, US - RZ03-03490200-R3U1",
+            "nomeFacto": "Razer BlackWidow V3",
+            "imgMain": "./imagens/assets/produtos/perifericos/teclados/blackwidow chroma.jpg",
+            "preco":"1.650,99",
+            "desconto": "0.31",
+            "estoque":"107",
+            "vendido":"775"
+
+        },
+
+        {
+
+            "rating":"2,548",
+            "titulo":"Nintendo Switch OLED 64GB Branco 2 Controles",
+            "nomeFacto": "Nintendo Switch OLED",
+            "imgMain": "./imagens/assets/produtos/consoles/Nintendo Switch OLED.jpg",
+            "preco":"2.525,50",
+            "desconto": "0.12",
+            "estoque":"107",
+            "vendido":"1020"
+
+        },
+
+        {
+
+            "rating":"2,548",
+            "titulo":"Controle Sony Dualshock 4 PS4, Sem Fio, Preto - CUH-ZCT2U",
+            "nomeFacto": "Controle Dualshock 4 PS4",
+            "imgMain": "./imagens/assets/produtos/perifericos/controles/joystickps4.jpg",
+            "preco":"349,50",
+            "desconto":"0.31",
+            "estoque":"107",
+            "vendido":"840"
+
+        },
+
+        {
+
+            "rating":"1,955",
+            "titulo":"Elden Ring",
+            "nomeFacto": "Elden Ring",
+            "imgMain": "./imagens/assets/produtos/games/eldenring.png",
+            "preco":"250,00",
+            "desconto":"0.25",
+            "estoque":"107",
+            "vendido":"500"
+
+        },
+
+        {
+
+            "rating":"1,955",
+            "titulo":"Red Dead Redemption 2",
+            "nomeFacto": "Red Dead Redemption 2",
+            "imgMain": "./imagens/assets/produtos/games/rdr2.jfif",
+            "preco":"250,00",
+            "desconto":"0.25",
+            "estoque":"107",
+            "vendido":"500"
+
+        },
+
+        {
+
+            "rating":"1,955",
+            "titulo":"God of War",
+            "nomeFacto": "God of War",
+            "imgMain": "./imagens/assets/produtos/games/gow.jpg",
+            "preco":"200,00",
+            "desconto":"0.25",
+            "estoque":"107",
+            "vendido":"500"
+
+        },
+
+        {
+
+            "rating":"1,955",
+            "titulo":"Cyberpunk 2077",
+            "nomeFacto": "Cyberpunk 2077",
+            "imgMain": "./imagens/assets/produtos/games/cyberpunk.jfif",
+            "preco":"199,99",
+            "desconto":"0.25",
+            "estoque":"107",
+            "vendido":"500"
+
+        }
+
+
+    ]
+
+
+
+}
